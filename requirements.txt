@@ -1,0 +1,6 @@
+# Tested with Python 3.12 on Linux (CPU only)
+jax[cpu]==0.11.2
+optax==0.2.8
+numpy==2.4.4
+scipy==1.17.1
+matplotlib==3.10.8

@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "AgeGuard: code for Conformally Calibrated Graph Neural Power Allocation under Aged Channel State Information"
+authors:
+  - family-names: "Arul Dalton"
+    given-names: "G."
+    orcid: "https://orcid.org/0000-0002-5981-7176"
+    affiliation: "Saveetha Engineering College, Chennai, India"
+license: MIT
+repository-code: "https://github.com/GArulDalton/AgeGuard"
+version: "1.1.0"
+date-released: "2026-10-24"
+preferred-citation:
+  type: article
+  title: "Conformally Calibrated Graph Neural Power Allocation under Aged Channel State Information"
+  authors:
+    - family-names: "Arul Dalton"
+      given-names: "G."
+  journal: "Wireless Networks (submitted)"
+  year: 2026
